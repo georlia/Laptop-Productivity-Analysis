@@ -10,4 +10,4 @@
 ### 📸 Το Dashboard μου
 Δείτε την ανάλυση που έφτιαξα:
 
-![My Dashboard](photos.png)
+![My Dashboard](photo.png)
